@@ -69,7 +69,7 @@ pip install PyQt5
 pip install pyinstaller
 
 # 文件打包
-pyinstaller --onefile --windowed --name PIC_processing pic_main5.py
+pyinstaller --onefile --windowed --name PIC_processing pic_mainV2.py
 ```
 
 ---
